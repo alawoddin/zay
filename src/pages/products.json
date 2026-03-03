@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Gym Weight",
+      "price": 240,
+      "rating": 4.2,
+      "brand": "PowerFit",
+      "description": "High quality gym weight for training",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Running Shoes",
+      "price": 180,
+      "rating": 4.5,
+      "brand": "Nike",
+      "description": "Comfortable running shoes",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Smart Watch",
+      "price": 320,
+      "rating": 4.8,
+      "brand": "Apple",
+      "description": "Smart watch with fitness tracking",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Headphones",
+      "price": 150,
+      "rating": 4.1,
+      "brand": "Sony",
+      "description": "Noise cancelling headphones",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Backpack",
+      "price": 90,
+      "rating": 4.0,
+      "brand": "Adidas",
+      "description": "Durable travel backpack",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Sunglasses",
+      "price": 60,
+      "rating": 3.9,
+      "brand": "Ray-Ban",
+      "description": "Stylish sunglasses",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/6/thumbnail.jpg"
+    }
+  ]
+}

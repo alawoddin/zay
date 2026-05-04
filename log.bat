@@ -2,30 +2,11 @@
 cd /d C:\your-project-path
 
 for /l %%x in (1, 1, 10) do (
-    echo Update %%x >> log.bat
+    echo i commit the code but not show the commit it is scure %%x >> log.bat
     git add .
     git commit -m "Add commit  %%x"
 )
 
 git push origin main
 pauseUpdate 1 
-i commit the code but not show the commit it is scure 2 
-i commit the code but not show the commit it is scure 3 
-i commit the code but not show the commit it is scure 4 
-i commit the code but not show the commit it is scure 5 
-i commit the code but not show the commit it is scure 6 
-i commit the code but not show the commit it is scure 7 
-i commit the code but not show the commit it is scure 8 
-i commit the code but not show the commit it is scure 9 
-i commit the code but not show the commit it is scure 10 
-
-Update 1 
-Update 2 
-Update 3 
-Update 4 
-Update 5 
-Update 6 
-Update 7 
-Update 8 
-Update 9 
-Update 10 
+i commit the code but not show the commit it is scure 1 
